@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">20210613-HemalAdani-NYCSchools</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="avg_writing_score">Avg Writing Score:</string>
+    <string name="avg_math_score">Avg Math Score:</string>
+    <string name="avg_reading_score">Avg Reading Score:</string>
+    <string name="sat_scores">SAT Scores</string>
+</resources>
